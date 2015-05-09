@@ -1,0 +1,111 @@
+body
+{
+background-color:#1D661A;
+}
+.naslov
+{
+	font: 40px arial, sans-serif;
+	margin-left:30%;
+}
+.autor
+{
+	border: 2px solid;
+	margin-right:60%;
+	margin-top:5%;
+	background-color: #00CC66;
+	width:100%;
+}
+.autorADD
+{
+	border: 2px solid;
+	border-radius: 25px;
+	margin-right:60%;
+	margin-top:5%;
+	background-color: #1299FF;
+	width:100%;
+	font: 16px arial, sans-serif;
+	font-weight:bold;
+	color: black;
+}
+.labela
+{
+	font: 20px arial, sans-serif;
+	color: #3F1299;
+}
+.tekst
+{
+	font: 20px arial, sans-serif;
+	color: blue;
+}
+.korime
+{
+	font: 30px arial, sans-serif;
+	color: black;
+}
+.korimeADD
+{
+	font: 30px arial, sans-serif;
+	color: black;
+	text-decoration:underline;
+}
+#navigacija
+{
+	float:left;
+	margin-left:10%;
+	margin-top:5%;
+	position:fixed;
+}
+#autori
+{
+	height:65%;
+	width:40%;
+	margin-left:30%;
+}
+.navig
+{
+	background-color:#669900;
+	font: 30px arial, sans-serif;
+	margin-top:1%;
+}
+.navig:hover
+{
+	background-color:#E60B0B;
+}
+/* unvisited link */
+a:link {
+    color: #000000;
+	text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    color: #000000;
+	text-decoration:none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+	text-decoration:none;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+	text-decoration:none;
+}
+#linkOsobniProfil:hover
+{
+	color: blue;
+}
+#linkOsobniProfil
+{
+	color: #0A1C21;
+}
+.submitButton
+{
+	width:40%;
+	height:10%;
+	font-weight:bold;
+	font-size:20px;
+}

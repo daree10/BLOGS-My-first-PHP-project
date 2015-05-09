@@ -1,0 +1,135 @@
+body
+{
+background-color:#1D661A;
+}
+#navigacija
+{
+	float:left;
+	margin-left:10%;
+	margin-top:5%;
+	position:fixed;
+}
+.navig:hover
+{
+	background-color:#E60B0B;
+}
+/* unvisited link */
+a:link {
+    color: #000000;
+	text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    color: #000000;
+	text-decoration:none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+	text-decoration:none;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+	text-decoration:none;
+}
+#linkOsobniProfil:hover
+{
+	color: blue;
+}
+#naslov
+{
+	margin-left: 30%;
+}
+#autori
+{
+	height:65%;
+	width:40%;
+	margin-left:30%;
+}
+h1
+{
+	font-family:arial, sans-serif;
+	color:#0B0B6E;
+}
+#labelaInfoKorisnik
+{
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+.time
+{
+	color:#0B0BFF;
+}
+.objava
+{
+	border: 2px solid;
+	margin-top:5%;
+	background-color: #335433;
+	width:100%;
+}
+.naslovObjave
+{
+	font: 30px arial, sans-serif;
+	color: #002900;
+}
+.tekstObjave
+{
+	font: 20px arial, sans-serif;
+}
+
+#tagInfo
+{
+	background-color: #7087EF;
+}
+.tagLink
+{
+	font: 20px arial, sans-serif;
+	color: #1031EB;
+}
+.tagLink:hover
+{
+	color: #1088EB;
+}
+
+#labelaInfo
+{
+	background-color: #708770;
+}
+
+.infoObjava
+{
+	font: 20px arial, sans-serif;
+	color: #000F00;
+}
+.labela
+{
+	font: 20px arial, sans-serif;
+	color: #B2B2B2;
+}
+
+.navig
+{
+	background-color:#669900;
+	font: 30px arial, sans-serif;
+	margin-top:1%;
+}
+
+#usrform
+{
+	font-weight:bold;
+	font-family: arial, sans-serif;
+}
+
+.submitButton
+{
+	width:40%;
+	height:10%;
+	font-weight:bold;
+	font-size:20px;
+	color:white;
+	background-color:#14300D;
+}
